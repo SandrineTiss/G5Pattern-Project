@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+
+#con-button
+{
+	margin-right:30px;
+}
+
+#info
+{
+	font-size: 11px;
+}
+
+/* accueil.jsp - checkbox */
+.disabled{
+	color: grey;
+} 
+
+#titre
+{
+	text-align: center;
+}
+
+
+.profil {
+  padding: 15px;
+  text-align: left;
+}
+
+.button_profil, .center
+{
+	text-align : center;
+}
+
+textarea
+{
+	resize:none;
+}
+
+
