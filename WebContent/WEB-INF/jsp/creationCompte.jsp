@@ -97,7 +97,6 @@
 				<div class="col-lg-6 col-md-6 col-sm-12 bg-light">
 					<table classe="affiche_profil">
 						<tr>	
-
 							<td class="profil col-lg-6 col-md-6 col-sm-6 col-6"><label for="email">E-mail* :</label> </td>
 							<td class="profil col-lg-6 col-md-6 col-sm-6 col-6"><input type="email" name="email" id="email" required="required" value="<c:out value="${user_pseudo.mail}"/>"/></td>
 						</tr>

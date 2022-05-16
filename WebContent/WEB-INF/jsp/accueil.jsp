@@ -14,12 +14,10 @@
 	</head>
 <body>
 	
-
 	<%@include file="../html/header.html"%>
 	
-	
-		<!-- Affichage des Erreurs s'il y en a -->
-<div class="container-fluid px-1 bg-light">
+	<!-- Affichage des Erreurs s'il y en a -->
+	<div class="container-fluid px-1 bg-light">
 	
 
 	<!-- modification de l'affichage de la navbar suivant présence d'un login-->

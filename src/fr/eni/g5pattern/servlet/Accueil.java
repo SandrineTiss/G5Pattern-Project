@@ -55,7 +55,7 @@ public class Accueil extends HttpServlet {
 
 		if (cookies != null) {
 			for (Cookie unCookie : cookies) {
-				// renvoie de l'attibut "pseudo" du cookie
+				// renvoie de l'attribut "pseudo" du cookie
 				if (unCookie.getName().equals("pseudo")) {
 					request.setAttribute("pseudo", unCookie.getValue());
 				}
